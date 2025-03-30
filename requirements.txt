@@ -1,3 +1,4 @@
 streamlit
-laptop analysis
+joblib
+numpy
 pandas
